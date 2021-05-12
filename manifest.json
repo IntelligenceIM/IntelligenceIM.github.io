@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.824311057e30e3cfb67960b750e44ae1.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.9d02618a5b926e8402e4ddd032fed0c3.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.2313ddaf6691e3183c2c77c3644d5ba6.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.43b8ea22575d177cf71a788201948fd0.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.104de4ac597b1050924c90160e40891e.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Cuatro Vientos",
+  "short_name": "store.cuatrovientos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Cuatro Vientos\nChegou para mudar sua forma de vestir, sinta-se mais elegante e confortável e sempre na moda.",
+  "background_color": "#ffffff",
+  "theme_color": "#24861d"
+}
